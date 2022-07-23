@@ -1,3 +1,4 @@
 baseURL = 'https://gar.ie/'
 languageCode = 'en-ie'
 title = 'Gar Morley'
+theme = 'basic'
